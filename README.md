@@ -37,9 +37,18 @@ Show random recipes on page load.
 
 Improve UI with animations.
 
-👩‍💻 Made by Vanshika Golam
+👩‍💻 Author
 
+Vanshika Golam
+📧 vanshikagolam@gmail.ccom
+🔗 https://www.linkedin.com/in/vanshika-golam-a955a926b/
 
----
+📢 Contributing
 
-Do you want me to help you **deploy this project on GitHub Pages** so you can show it on LinkedIn/Resume? (
+Contributions are welcome!
+Feel free to fork this repo, make improvements, and open a pull request.
+
+📜 License
+
+This project is licensed under the MIT License – see the LICENSE
+ file for details.
